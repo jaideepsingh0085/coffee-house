@@ -6,6 +6,8 @@
 ![Screenshot 2023-09-08 233637](https://github.com/jaideepsingh0085/coffee-house/assets/128147644/1a0caa9c-9903-4eec-b4cb-c0e33b5d83ea)
 ![Screenshot 2023-09-08 233646](https://github.com/jaideepsingh0085/coffee-house/assets/128147644/cb172c92-1607-44ad-86de-2b5ace933924)
 
+Hosted Link: https://jaideepsingh0085.github.io/coffee-house/index.html
+
 HTML Descripton:
 <body>: Represents the main content of the HTML document.
 <header>: Defines a container for introductory content or a set of navigational links.
